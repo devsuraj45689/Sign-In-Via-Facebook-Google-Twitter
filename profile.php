@@ -36,7 +36,7 @@ session_start();
 
         <footer>
           <h2><i>Author:</i><a href="http://www.vipinkhushu.com"> Vipin Khushu </a> | RAPL IND.( vipinkhushu[at]hotmail.com )</h2>
-            <a class="tzine" href="http://www.github.com/vipinkhushu">Star And Fork This Project <i><b>Github</b></i></a>
+            <a class="tzine" href="http://www.github.com/vipinkhushu">Star And Fork This Project <i><b>Github</b></i></a> 
         </footer>
         
     </body>
